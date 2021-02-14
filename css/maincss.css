@@ -1,0 +1,59 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+*{
+	font-family: 'nanumGothic';
+}
+
+footer{
+	position:fixed;
+	left:0px;
+	right:0px;
+	bottom: 0px;
+	height:100px;
+	width:100%;
+	background-color: #E2E2E2;
+	color:#000000; 
+}
+
+header{
+	position:fixed;
+	left:0px;
+	right:0px;
+	top: 0px;
+	height:200px;
+	width:100%;
+	background-color: #E2E2E2;
+	color:#000000; 
+}
+   
+#custom-search-input{
+    padding: 3px;
+    border: solid 1px #000000;
+    border-radius: 6px;
+    background-color: #fff;
+}
+
+#custom-search-input input{
+    border: 0;
+    box-shadow: none;
+}
+
+#custom-search-input button{
+    margin: 2px 0 0 0;
+    background: none;
+    box-shadow: none;
+    border: 0;
+    color: #000000;
+    padding: 0 8px 0 10px;
+    border-left: solid 1px #ccc;
+}
+
+#custom-search-input button:hover{
+    border: 0;
+    box-shadow: none;
+    border-left: solid 1px #ccc;
+}
+
+#custom-search-input .glyphicon-search{
+    font-size: 23px;
+}
+
