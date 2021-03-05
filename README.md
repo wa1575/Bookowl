@@ -12,10 +12,10 @@ Language : JSP
 
 
 ## Function
-: Search, upload, delete, save, sign up, withdraw
+: Search, upload, delete, save, sign up, withdraw, Content modification ...
 
 
-검색,업로드,삭제, 저장, 회원가입, 탈퇴  
+검색,업로드,삭제, 저장, 회원가입, 탈퇴,  ...
 
 
 
