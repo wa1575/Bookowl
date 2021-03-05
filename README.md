@@ -4,9 +4,17 @@ Second hand store WEB site.jsp
 
 ## DEV.ENV
 Language : JSP
-Site purpose : Second hand store WEB site
 
-Search, upload, delete, save, sign up, withdraw
+
+
+## Site purpose 
+: Second hand store WEB site
+
+
+## Function
+: Search, upload, delete, save, sign up, withdraw
+
+
 검색,업로드,삭제, 저장, 회원가입, 탈퇴  
 
 
